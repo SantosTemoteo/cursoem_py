@@ -1,3 +1,4 @@
+print('------ Tabuada Noob ------')
 n = float(input('Digite um número: '))
 #adição
 print('[{}] + 1 = [{}]'.format(n,n+1))
