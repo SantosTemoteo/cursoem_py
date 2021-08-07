@@ -1,4 +1,3 @@
-
 n = int(input('Informe um número: '))
 print('Analizando o número {}'.format(n))
 u = n // 1 % 10
