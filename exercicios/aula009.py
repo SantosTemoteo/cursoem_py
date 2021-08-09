@@ -32,3 +32,5 @@ dividido = frase.split()
 print(dividido)
 print(dividido[0]) # printar o split do índice 0
 print(dividido[2][3]) # dentro do split de índice 2; mostrar a letra de índice 3
+print(len(frase)) # comprimento
+print(len(dividido)) # comprimento dos índices split (quantos tem)
